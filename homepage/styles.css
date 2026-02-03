@@ -1,0 +1,40 @@
+body {
+    background-color: #AAAAff;
+}
+
+h4 {
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+h1 {
+    text-align: center;
+    line-height: 1.6;
+}
+
+#p1 {
+    text-align: center;
+}
+
+#buttons {
+    text-align: center;
+    }
+
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+tr {
+    text-align: center;
+}
+
+#cp {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
