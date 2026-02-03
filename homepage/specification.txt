@@ -1,0 +1,25 @@
+HTML tags:
+<link>
+<script>
+<h4>
+<h1>
+<p>
+<div>
+<a>
+<br>
+<hr>
+<footer>
+
+CSS properties:
+body
+h4
+h1
+#p1
+#buttons
+tr
+table
+#cp
+div
+
+Why i chose to use javascript and bootstrap:
+To add blinking and color to the 'Buttons' and Spacing.
